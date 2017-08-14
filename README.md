@@ -1,7 +1,9 @@
 # ContactList
 Go to console.
+```
+> git clone https://github.com/adolfius47/ToDo.git
 
-git clone https://github.com/adolfius47/ToDo.git
+```
 To get started, first install all the necessary dependencies.
 ```
 > npm install
